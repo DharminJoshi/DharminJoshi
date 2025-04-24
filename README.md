@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on elevating modern web experiences through cloud integration, streamlining backend architecture for scalability, and sharing practical insights through technical content creation.<br>👯 I’m looking to collaborate on Fullstack projects<br>💬 Ask me about JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br>👨‍💻 All of my projects are available at https://github.com/DharminJoshi<br>📫 How to reach me info.dharmin@gmail.com<br>⚡ Fun fact I love creating content.
+🔭 I’m currently working on:<br>**Elevating modern web experiences through cloud integration, streamlining backend architecture for scalability, and sharing practical insights through technical content creation.**<br><br>👯 I’m looking to collaborate on:<br>**Fullstack Projects.**<br><br>💬 Ask me about:<br>**JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**<br><br>👨‍💻 All of my projects are available at:<br>https://github.com/DharminJoshi<br><br>📫 How to reach me:<br>info.dharmin@gmail.com<br><br>⚡ Fun fact:<br>**I love creating content.**
 
 
 ## 🌐 Socials:
