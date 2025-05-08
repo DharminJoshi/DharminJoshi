@@ -26,11 +26,3 @@
 
 ---
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=DharminJoshi&theme=onedark&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" 
-    alt="GitHub Trophies" 
-    width="100%" 
-  />
-</div>
-
