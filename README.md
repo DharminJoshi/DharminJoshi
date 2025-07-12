@@ -80,3 +80,4 @@ Stay in touch or follow my content across platforms:
 ![trophy](https://github-profile-trophy.vercel.app/?username=DharminJoshi&theme=onedark&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews)
 
 ---
+![Visitors](https://komarev.com/ghpvc/?username=DharminJoshi&color=blue&style=flat-square)
