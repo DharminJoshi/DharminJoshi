@@ -1,5 +1,44 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>**Elevating modern web experiences through cloud integration, streamlining backend architecture for scalability, and sharing practical insights through technical content creation.**<br><br>👯 I’m looking to collaborate on:<br>**Fullstack Projects.**<br><br>💬 Ask me about:<br>**JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**<br><br>👨‍💻 All of my projects are available at:<br>https://github.com/DharminJoshi<br><br>📫 How to reach me:<br>info.dharmin@gmail.com<br><br>⚡ Fun fact:<br>**I love creating content.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Dharmin+Joshi+%2F+DevKay+%F0%9F%91%8B;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Fullstack+Dev+%7C+AI/ML+%7C+Content+Creator">
+</p>
+
+
+## 💫 About Me
+
+🚀 **Current Focus:**  
+Elevating modern web experiences with cloud-native solutions, scalable backend architectures, and impactful tech content.
+
+🤝 **Open to Collaborations:**  
+Fullstack web applications, SaaS platforms, or community-driven tech projects.
+
+💬 **Ask Me About:**  
+JavaScript, React, Next.js, Node.js, AWS, and software engineering best practices.
+
+📁 **Projects & Code:**  
+Check out my work at [github.com/DharminJoshi](https://github.com/DharminJoshi)
+
+📬 **Let's Connect:**  
+Feel free to reach out at [info.dharmin@gmail.com](mailto:info.dharmin@gmail.com)
+
+🎥 **Fun Fact:**  
+I love creating content to simplify tech for others!
+
+---
+
+## 📚 What I'm Learning
+- Advanced AI/ML model tuning with TensorFlow and PyTorch
+- Building decentralized apps with Solidity and blockchain tech
+- Performance optimization techniques in Next.js and React
+
+---
+
+## 🛠️ Challenges I’m Solving
+
+- Understanding and applying advanced fine-tuning techniques for AI and machine learning models  
+- Experimenting with transfer learning to optimize model performance on specialized datasets  
+- Improving model generalization and reducing overfitting in deep learning workflows  
+- Exploring hyperparameter tuning strategies to enhance AI model accuracy and efficiency  
+- Implementing scalable AI/ML pipelines for real-world applications
 
 ---
 
@@ -18,6 +57,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DharminJoshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharminJoshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ---
 
 # 🏆 Trophies
@@ -25,4 +65,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=DharminJoshi&theme=onedark&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews)
 
 ---
-
