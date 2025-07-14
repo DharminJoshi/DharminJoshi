@@ -33,6 +33,13 @@ I love creating content that simplifies complex tech — one video at a time!
 
 ---
 
+### 🚀 Join Our DevKay Community!  
+Connect, learn, and grow with fellow developers in **The DevKay HQ** Discord server — a friendly space for tech discussions, coding help, project showcases, events, and more!  
+
+**Join here:** [Discord Server Invite Link](https://discord.gg/TsChJGSwk6)
+
+---
+
 ## 📚 What I'm Learning
 - Advanced model fine-tuning techniques using TensorFlow and PyTorch  
 - Performance optimization strategies in Next.js and React applications  
