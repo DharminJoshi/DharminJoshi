@@ -5,11 +5,6 @@
 
 ## 💫 About Me
 
-💼 Currently working as a **GenAI Developer Intern @ Piramal Finance Ltd.**, where I:
-- Build and integrate LLM-based solutions into internal workflows  
-- Experiment with prompt engineering and fine-tuning techniques for domain-specific use cases  
-- Collaborate with cross-functional teams to deploy scalable AI-driven tools in production
-
 🚀 **Current Focus:**  
 Delivering intelligent, AI-powered web solutions with scalable backend systems and performance-optimized frontend architectures.
 
